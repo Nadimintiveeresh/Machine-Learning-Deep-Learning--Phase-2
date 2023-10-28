@@ -1,0 +1,11 @@
+TY  - JOUR
+AU  - Florez, Raquel
+AU  - Ramon, Juan
+PY  - 2008/04/07
+SP  - 96
+EP  - 117
+T1  - Marketing Segmentation Through Machine Learning Models: An Approach Based on Customer Relationship Management and Customer Profitability Accounting
+VL  - 27
+DO  - 10.1177/0894439308321592
+JO  - Social Science Computer Review - SOC SCI COMPUT REV
+ER  - 
